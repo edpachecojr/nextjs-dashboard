@@ -1,6 +1,6 @@
 # Next.js Dashboard App
 
-Este projeto é um painel administrativo (dashboard) construído com Next.js 15.4.5, utilizando o App Router e seguindo as melhores práticas do ecossistema. O objetivo é servir como referência de arquitetura moderna e compor meu portfólio.
+Este projeto tem como objetivo principal **aprender mais sobre Next.js e React.js**, além de **praticar os conhecimentos adquiridos no curso**. O painel administrativo (dashboard) foi construído com Next.js 15.4.5, utilizando o App Router e seguindo as melhores práticas do ecossistema. O projeto também visa aprimorar habilidades em arquitetura moderna de aplicações web, integração com banco de dados, autenticação segura e experiência do usuário responsiva. Além disso, serve como base para estudos de deploy, versionamento de código com Git e colaboração em projetos open source.
 
 ## ✨ Funcionalidades
 
@@ -14,6 +14,9 @@ Este projeto é um painel administrativo (dashboard) construído com Next.js 15.
 - **Estilização com Tailwind CSS**
 - **Acesso protegido via middleware**
 - **Integração com banco de dados PostgreSQL**
+- **Boas práticas de acessibilidade**
+- **Estrutura modular e reutilizável de componentes**
+- **Configuração de ambiente para diferentes estágios (desenvolvimento e produção)**
 
 ## 🚀 Tecnologias
 
@@ -32,7 +35,7 @@ Este projeto é um painel administrativo (dashboard) construído com Next.js 15.
 
 ## 📚 Sobre o curso
 
-Projeto inspirado no [Next.js App Router Course](https://nextjs.org/learn/dashboard-app), com aprimoramentos e adaptações para o portfólio.
+Projeto inspirado no [Next.js App Router Course](https://nextjs.org/learn/dashboard-app), com aprimoramentos e adaptações para fins de aprendizado.
 
 ## 💡 Como rodar
 
